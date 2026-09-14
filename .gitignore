@@ -1,0 +1,18 @@
+# Python / Django
+__pycache__/
+*.py[cod]
+*.sqlite3
+.pytest_cache/
+.venv/
+venv/
+
+# Node / frontend
+node_modules/
+dist/
+.vite/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+*.log
